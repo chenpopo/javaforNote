@@ -1,4 +1,0 @@
-thinkJava
-=========
-
-some practical method
