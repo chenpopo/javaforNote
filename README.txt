@@ -1,7 +1,7 @@
 thinkJava
 =========
 
-some practical method
+a simple note tool of java version
 
 这是一个简单的java程序编写的记事本编辑器。
 
