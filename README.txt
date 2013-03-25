@@ -7,4 +7,5 @@ a simple note tool of java version
 
 缺点是打包生成的jar文件没有把资源文件打包进去，主要是小图标图片。
 
-abc44444
+abc44444fdsf
+fsdf
